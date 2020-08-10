@@ -304,7 +304,7 @@
 
              <mod name="Reborn Core" version="4.2.9+build.115" url="packs/ResonantRise/files/6.x/RebornCore-1.15-4.2.9build.115.jar" file="RebornCore-1.15-4.2.9build.115.jar" md5="d8b8a9b160ff1bbb460188543336d4e2" download="server" type="mods" />
 
-             <mod name="Reliquary" version="" url="packs/ResonantRise/files/6.x/Reliquary-1.15.2-1.3.4.995.jar" file="Reliquary-1.15.2-1.3.4.995.jar" md5="9c56a5b70d31a23f30577a687699c384" download="server" type="mods" description="" website="" />
+             <mod name="Reliquary" version="1.3.4.995" url="packs/ResonantRise/files/6.x/Reliquary-1.15.2-1.3.4.995.jar" file="Reliquary-1.15.2-1.3.4.995.jar" md5="9c56a5b70d31a23f30577a687699c384" download="server" type="mods" description="Reliquary is a collection of magical items and blocks" website="https://www.curseforge.com/minecraft/mc-mods/reliquary-v1-3" />
              
              <mod name="RFTools Base" version="rftoolsbase-1.15-1.1.3-beta.jar" url="packs/ResonantRise/files/6.x/rftoolsbase-1.15-1.1.3-beta.jar" file="rftoolsbase-1.15-1.1.3-beta.jar" md5="ca02bbb20df4bb9fe2d19694886ea398" download="server" type="mods" />
 
